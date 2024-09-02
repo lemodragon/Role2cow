@@ -1,0 +1,7 @@
+{
+  "cloud_assistant": {
+    "api_url": "https://example.com/v1/chat/completions",
+    "api_key": "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "model": "yun-2.0"
+  }
+}
